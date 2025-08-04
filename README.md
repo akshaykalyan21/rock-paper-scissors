@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🪨 ✂️ 📄 Rock Paper Scissors Game
 
 An interactive and responsive Rock-Paper-Scissors game built with React, featuring modern UI design, animations, and a complete gaming experience.
@@ -155,3 +156,7 @@ Have fun with the Rock-Paper-Scissors game! Challenge your friends, beat the com
 ---
 
 **Built with ❤️ using React** 
+=======
+# rock-paper-scissors
+rock paper scissors game
+>>>>>>> ea5f6b3f130b17fe7fb1eec5a8d439c862751c02
